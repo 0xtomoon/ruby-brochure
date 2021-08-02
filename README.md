@@ -1,1 +1,1 @@
-# ruby-brochure
+This website is hosted on http://msq-brochure.herokuapp.com/
